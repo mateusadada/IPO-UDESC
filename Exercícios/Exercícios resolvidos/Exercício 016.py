@@ -1,5 +1,5 @@
 # Faça um programa para escrever a contagem regressiva do lançamento de um foguete.
-# O programa deve imprimir 10, 9, 8, ..., 1, 0 e FOGO! na tela
+# O programa deve imprimir 10, 9, 8, ..., 1, 0 e DECOLAR na tela
 
 import time
 
@@ -10,4 +10,4 @@ while x >= 0:
     time.sleep(1)
     x -= 1
 
-print('FOGO!!!')
+print('\n***DECOLAR***')
