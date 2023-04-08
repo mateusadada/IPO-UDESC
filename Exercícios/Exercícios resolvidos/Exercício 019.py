@@ -3,7 +3,7 @@
 numero = int(input('Digite um número: '))
 x = 1
 
-print(f'\n*** TABUADA DO {numero}***\n')
+print(f'\n*** TABUADA DO {numero} ***\n')
 
 while x <= 10:
     print(f'{numero} x {x} = {numero * x}')
