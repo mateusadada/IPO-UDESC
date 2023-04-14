@@ -2,12 +2,13 @@
 
 quantidade = int(input('Deseja ver quantos números primos? '))
 numero = 3
-contador = 0
+contador = 1
 
 if quantidade < 1:
     print('\nVocê optou por ver nenhum número primo :(')
 else:
-    print(f'\n*** LISTANDO OS {quantidade} PRIMEIROS NÚMEROS PRIMOS ***\n')
+    print(f'\n*** LISTANDO OS {quantidade} PRIMEIROS NÚMEROS PRIMOS ***\n'
+          f'{contador}º primo: 2')
     while contador < quantidade:
         impar_divisor = 3
         while True:
