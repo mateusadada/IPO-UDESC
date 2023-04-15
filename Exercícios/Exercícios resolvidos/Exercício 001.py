@@ -1,10 +1,13 @@
 # Receber as 4 notas de IPOO e calcular a média semestral.
 
-nota1 = float(input('Digite a nota 1: '))
-nota2 = float(input('Digite a nota 2: '))
-nota3 = float(input('Digite a nota 3: '))
-nota4 = float(input('Digite a nota 4: '))
+i = 1
+soma = 0
 
-media_semestral = (nota1 + nota2 + nota3 + nota4) / 4
+while i <= 4:
+    nota = float(input(f'Digite a {i}ª nota: '))
+    soma += nota
+    i += 1
 
-print(f'\nA média semestral é {media_semestral:.2f}')
+media_semestral = soma / 4
+
+print(f'\nA média semestral é {media_semestral:.1f}')
