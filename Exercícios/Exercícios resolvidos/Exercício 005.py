@@ -4,6 +4,6 @@ a = int(input('Primeiro número: '))
 b = int(input('Segundo número: '))
 
 if a > b:
-    print('\nO primeiro número é maior!')
+    print(f'\nO primeiro número ({a}) é maior!')
 if b > a:
-    print('\nO segundo número é maior!')
+    print(f'\nO segundo número ({b}) é maior!')
