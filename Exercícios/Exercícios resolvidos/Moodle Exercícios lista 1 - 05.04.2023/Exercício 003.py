@@ -1,8 +1,9 @@
 # Calcule a área, em cm², de um triângulo retângulo, recebendo a base e a altura. Exiba o resultado na tela
 
-print('*** CALCULANDO A ÁREA DE UM TRIÂNGULO RETÂNGULO ***')
-base = float(input('Digite a base: '))
-altura = float(input('Digite a altura: '))
+print('Bem vindo! Este programa calcula a área de um triângulo retângulo.')
+
+base = float(input('Digite a base (m²): '))
+altura = float(input('Digite a altura (m²): '))
 
 area = (base * altura) / 2
 
