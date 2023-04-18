@@ -5,5 +5,7 @@ b = int(input('Segundo número: '))
 
 if a > b:
     print(f'\nO primeiro número ({a}) é maior!')
-if b > a:
+elif b > a:
     print(f'\nO segundo número ({b}) é maior!')
+else:
+    print('\nOs dois números são iguais!')
