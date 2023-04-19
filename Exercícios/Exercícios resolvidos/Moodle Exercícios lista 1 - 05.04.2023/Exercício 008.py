@@ -8,20 +8,20 @@
 
 from math import pi, ceil
 
-altura = float(input('Digite a altura do tanque: '))
-raio = float(input('Digite o raio do tanque: '))
+print('Bem vindo! Este programa calcula o custo e quantas latas de tinta são usadas para pintar um tanque cilíndrico.')
+
+altura = float(input('Digite a altura: '))
+raio = float(input('Digite o raio: '))
 
 area = (raio + altura) * 2 * raio * pi
 litro = area / 4
-if litro != int(litro):
-    litro = ceil(litro)
-
 lata = litro / 5
+
 if lata != int(lata):
     lata = ceil(lata)
 
 custo_total = lata * 120
 
 print(f'\nÁrea do tanque: {area:.2f}m²'
-      f'\nQuantidade de latas necessárias: {lata}'
+      f'\nQuantidade de latas necessárias (5L): {lata:.0f}'
       f'\nCusto total: R$ {custo_total:.2f} reais')
