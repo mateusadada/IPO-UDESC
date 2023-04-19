@@ -1,6 +1,6 @@
 # Receba uma string do usuário e imprima a quantidade de caracteres dessa string, exibindo na tela o resultado
 
-print('Bem vindo! Este programa mostra a quantidade de caracteres em um texto')
+print('Bem vindo! Este programa mostra a quantidade de caracteres em um texto.')
 
 texto = input('Digite algo: ')
 
