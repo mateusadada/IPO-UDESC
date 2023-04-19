@@ -4,7 +4,7 @@ import math
 
 print('Bem vindo! Este programa calcula a área de um círculo.')
 
-raio = float(input('Digite o raio de um círculo (cm²): '))
+raio = float(input('Digite o raio do círculo (cm²): '))
 
 if raio < 0:
     print('\nErro! O raio informado é negativo')
