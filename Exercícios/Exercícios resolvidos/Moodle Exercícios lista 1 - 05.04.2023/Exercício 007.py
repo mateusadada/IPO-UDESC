@@ -1,6 +1,6 @@
 # Calcule a área de um círculo cujo raio será informado pelo usuário e exiba o resultado na tela
 
-import math
+from math import pi
 
 print('Bem vindo! Este programa calcula a área de um círculo.')
 
@@ -9,5 +9,5 @@ raio = float(input('Digite o raio do círculo (cm²): '))
 if raio < 0:
     print('\nErro! O raio informado é negativo')
 else:
-    area = (raio ** 2) * math.pi
+    area = (raio ** 2) * pi
     print(f'\nA área do círculo é {area:.2f}cm²')
