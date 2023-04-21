@@ -1,1 +1,1 @@
-# Escreva um programa que receberá um número e dira se ele é positivo, negativo ou nulo
+# Escreva um programa que receberá um número e dirá se ele é positivo, negativo ou nulo
