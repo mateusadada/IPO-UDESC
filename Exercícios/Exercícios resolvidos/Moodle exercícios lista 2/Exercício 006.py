@@ -1,12 +1,18 @@
 # Faça um programa que leia a idade e a altura de uma pessoa e verifique se ela pode entrar em um parque de diversões.
 # Para entrar no parque a pessoa deve ter pelo menos 12 anos e medir mais de 1,50m.
 
-print('Bem vindo! Este programa verifica se uma pessoa pode entrar no parque de diversões.')
+print('Bem vindo! Este programa verifica se uma pessoa pode entrar no parque de diversões.'
+      '\n- Idade mínima: 12 anos'
+      '\n- Altura mínima: 1,51cm')
 
-idade = int(input('Digite a idade: '))
+idade = int(input('\nDigite a idade: '))
 altura = float(input('Digite a altura (m): '))
 
-if idade >= 12 and altura > 1.5:
-    print('\nA pessoa pode entrar!')
+if idade < 12 and altura <= 1.5:
+    print('\nA pessoa NÃO pode entrar devido à idade e à altura.')
+elif idade < 12 and altura > 1.5:
+    print('\nA pessoa NÃO pode entrar devido à idade.')
+elif idade >= 12 and altura <= 1.5:
+    print('\nA pessoa NÃO pode entrar devido à altura.')
 else:
-    print('\nInfelizmente, a pessoa não pode entrar.')
+    print('\nA pessoa pode entrar!')
