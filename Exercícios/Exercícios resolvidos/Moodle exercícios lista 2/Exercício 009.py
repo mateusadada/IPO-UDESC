@@ -12,6 +12,8 @@
 # - o valor do aumento;
 # - o novo salário após o aumento.
 
+print('Bem vindo! Este programa calcula os reajustes de salários das Organizações Tabajara.')
+
 salario_atual = float(input('Digite o salário atual: R$ '))
 
 if salario_atual <= 280:
