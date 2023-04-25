@@ -1,6 +1,6 @@
 # Faça um programa que calcule se um ano é ou não bissexto (se necessário, procure a regra na internet)
 
-print('Bem vindo! Este programa informa se um ano é ou não bissexto.')
+print('Bem vindo ao programa de validação de ano bissexto!')
 
 ano = int(input('Digite um ano: '))
 
