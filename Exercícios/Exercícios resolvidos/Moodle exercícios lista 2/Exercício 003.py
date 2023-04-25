@@ -1,6 +1,6 @@
 # Calcule se um número é par ou ímpar
 
-print('Bem vindo! Este programa informa se um número é par ou ímpar.')
+print('Bem vindo ao programa que informa se um número é par ou ímpar!')
 
 numero = int(input('Digite um número: '))
 
