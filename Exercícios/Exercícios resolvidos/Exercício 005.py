@@ -1,5 +1,7 @@
 # Exemplo 1 do PDF Slides da aula - Parte 5
 
+print('Bem vindo ao programa de cálculo do maior número entre dois digitados!')
+
 a = int(input('Primeiro número: '))
 b = int(input('Segundo número: '))
 
