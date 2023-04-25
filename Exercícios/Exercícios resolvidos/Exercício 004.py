@@ -1,5 +1,7 @@
 # Receber 2 número e imprimir a soma, a subtração, multiplicação e divisão entre eles.
 
+print('Bem vindo ao programa de cálculo da soma, subtração, multiplicação e divisão entre dois números!')
+
 numero1 = float(input('Digite o primeiro número: '))
 numero2 = float(input('Digite o segundo número: '))
 
