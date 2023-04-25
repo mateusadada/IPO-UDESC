@@ -8,7 +8,7 @@
 
 from math import pi, ceil
 
-print('Bem vindo! Este programa calcula o custo e quantas latas de tinta são usadas para pintar um tanque cilíndrico.')
+print('Bem vindo ao programa de cálculo de custo e de quantidade para pintar um tanque cilíndrico!')
 
 altura = float(input('Digite a altura: '))
 raio = float(input('Digite o raio: '))
