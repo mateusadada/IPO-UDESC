@@ -1,6 +1,6 @@
 # Receber as 4 notas de IPO e calcular a média semestral.
 
-print('Bem vindo! Este programa calcula a média semestral da matéria de IPO.')
+print('Bem vindo ao programa de cálculo da média sesmestral de IPO!')
 
 i = 1
 soma = 0
