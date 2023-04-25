@@ -1,7 +1,7 @@
 # Faça um programa que pergunte em que turno você estuda. Peça para digitar M-Matutino, V-Vespertino ou N-Noturno. 
 # - Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 
-print('Bem vindo! Este programa faz uma saudação a depender do turno que você estuda.')
+print('Bem vindo ao programa que faz uma saudação dependendo do turno que você estuda!')
 
 turno = input('Em qual turno você estuda?'
               '\nOpções: M-Matutino, V-Vespertino ou N-Noturno'
