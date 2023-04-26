@@ -1,5 +1,7 @@
 # Imprimir as tabuadas de multiplicação de 1 a 10
 
+print('Bem vindo ao programa que mostra as tabuadas de multiplicação de 1 a 10!')
+
 i = 1
 
 while i <= 10:
