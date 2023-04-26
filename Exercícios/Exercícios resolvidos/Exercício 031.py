@@ -1,5 +1,7 @@
 # Modifique o programa anterior de forma a ler um número n. Imprima os n primeiros números primos
 
+print('Bem vindo ao programa que mostra os n primeiros números primos!')
+
 quantidade = int(input('Deseja ver quantos números primos? '))
 numero = 3
 contador = 1
