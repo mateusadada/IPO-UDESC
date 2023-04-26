@@ -1,5 +1,7 @@
 # Exemplo 5 do PDF Slides da aula - Parte 5
 
+print('Bem vindo ao programa que mostra o preço do produto dependendo da categoria!')
+
 categoria = int(input('Digite a categoria do produto: '))
 
 if categoria == 1:
