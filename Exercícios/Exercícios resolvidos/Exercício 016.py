@@ -8,8 +8,8 @@ print('Bem vindo ao programa que exibe a contagem regressiva do lançamento de u
 x = 10
 
 while x >= 0:
-    print(x)
     time.sleep(1)
+    print(x)
     x -= 1
 
 print('\n***DECOLAR***')
