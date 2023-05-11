@@ -6,6 +6,8 @@ lista = [4, 8, -54, 254, 21, -98, 54, 2, 74, 65, -42]
 maior = lista[0]
 menor = lista[0]
 
+print(f'Lista: {lista}')
+
 for e in lista:
     if e > maior:
         maior = e
