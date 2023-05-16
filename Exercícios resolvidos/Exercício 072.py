@@ -6,6 +6,6 @@ def area_quadrado(lado):
 
 
 print('Bem vindo ao programa de cálculo da área de um quadrado!')
-lado_quadrado = float(input('Digite o lado m²: '))
+lado_quadrado = float(input('Digite o lado (m²): '))
 
 print(f'\nA área é {area_quadrado(lado_quadrado):.1f}m²')
