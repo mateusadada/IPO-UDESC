@@ -2,7 +2,7 @@
 # A função deve retornar o preço final do produto.
 
 def calculaPreco(valor_inicial, desconto_percentual):
-    preco_final = valor_inicial -(valor_inicial * desconto_percentual / 100)
+    preco_final = valor_inicial - (valor_inicial * desconto_percentual / 100)
     return preco_final
 
 

@@ -19,6 +19,5 @@ while True:
     else:
         numeros.append(numero)
 
-#  imprimir a lista
 print(f'\nLista: {numeros}'
       f'\nO valor máximo é {valor_maximo(numeros)}')
