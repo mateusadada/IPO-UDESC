@@ -1,0 +1,1 @@
+# Adicionando comportamento à classe.
