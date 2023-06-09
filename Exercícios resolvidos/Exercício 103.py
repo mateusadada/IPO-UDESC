@@ -2,6 +2,9 @@
 # na tela.
 
 class Pessoa:
+    nome = None
+    idade = None
+
     def __init__(self, nome='', idade=0):
         self.nome = nome
         self.idade = idade
@@ -19,7 +22,24 @@ class Pessoa:
         return self.idade
 
 
-# usar uma lista p/ adicionar o nome e a idade
-# a variável que vou guardar na lista eu devo puxar a classe, usar a função para definir o nome e a idade e
-# daí armazenar na lista
-# no fim eu imprimo tudo
+banco_de_dados = []
+
+print('Bem vindo ao programa que exibe nomes e as idades de n pessoas!')
+
+while True:
+    nome = input('\nInforme um nome (fim p/ sair): ')
+
+    if nome == 'fim':
+        break
+
+    idade = int(input('Idade: '))
+
+    objeto = Pessoa()
+    objeto.set_nome(nome)
+    objeto.set_idade(idade)
+    banco_de_dados.append(objeto)
+
+print(f'\n*** EXIBINDO TODOS OS {len(banco_de_dados)} NOMES E IDADES ***\n')
+
+for i, e in enumerate(banco_de_dados):
+    print(f'{i + 1}º: {e.get_nome()} com {e.get_idade()} anos')
