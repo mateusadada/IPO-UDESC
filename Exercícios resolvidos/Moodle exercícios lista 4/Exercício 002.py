@@ -1,4 +1,4 @@
-# Fazer uma função que receba como parâmetro um numero inteiro e retorne o fatorial desse número.
+# Fazer uma função que receba como parâmetro um número inteiro e retorne o fatorial desse número.
 
 def fatorial(fat):
     total = 1

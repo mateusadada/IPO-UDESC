@@ -15,4 +15,5 @@ for i in range(4):
     peso = int(input(f'{i + 1}º peso: '))
     peso_notas.append(peso)
 
-print(f'\nA média das notas é {media(notas[0], peso_notas[0], notas[1], peso_notas[1], notas[2], peso_notas[2], notas[3], peso_notas[3]):.2f}')
+print(f'\nA média das notas é '
+      f'{media(notas[0],peso_notas[0],notas[1],peso_notas[1],notas[2],peso_notas[2],notas[3],peso_notas[3]):.2f}')

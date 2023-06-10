@@ -1,4 +1,4 @@
-# Execute o programa que permite modificar uma variável global dentro de uma função, pela instrução global
+# Execute o programa que permite modificar uma variável global numa função, pela instrução global
 
 def muda_e_imprime():
     global a

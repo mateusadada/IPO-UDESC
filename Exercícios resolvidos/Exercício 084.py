@@ -4,7 +4,7 @@ def barra_1():
     return '*' * 40
 
 
-def barra_2(n = 40, caractere = '-'):
+def barra_2(n=40, caractere='-'):
     return caractere * n
 
 

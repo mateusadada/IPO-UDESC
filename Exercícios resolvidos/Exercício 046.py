@@ -1,4 +1,4 @@
-# Faça um programa para verificar o maior número dentro de uma lista usando for.
+# Faça um programa para verificar o maior número numa lista usando for.
 
 print('Bem vindo ao programa que informa o maior número dentro uma lista!')
 

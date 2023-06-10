@@ -1,4 +1,4 @@
-# Crie uma lista de números e crie uma nova lista com os números pares.
+# Crie uma lista de números e crie uma lista com os números pares.
 
 print('Bem vindo ao programa que cria uma nova lista com números pares de outra lista!')
 
