@@ -42,4 +42,4 @@ while True:
 print(f'\n*** EXIBINDO TODOS OS {len(banco_de_dados)} NOMES E IDADES ***\n')
 
 for i, e in enumerate(banco_de_dados):
-    print(f'{i + 1}º: {e.get_nome()} com {e.get_idade()} anos')
+    print(f'{i + 1}º: {e.get_nome()} tem {e.get_idade()} anos')
