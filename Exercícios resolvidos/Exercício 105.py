@@ -55,4 +55,3 @@ while True:
     estudante.set_nota2(nota2)
 
     print(f'\nAluno {estudante.get_nome()} com a média {estudante.media(nota1, nota2):.2f}\n')
-
