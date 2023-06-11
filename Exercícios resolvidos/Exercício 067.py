@@ -1,4 +1,4 @@
-# Exemplo de uma nova função com retorno de um valor
+# Exemplo de uma nova função com retorno de um valor.
 
 def soma(a, b):
     return a + b

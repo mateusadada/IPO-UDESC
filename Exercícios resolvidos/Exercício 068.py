@@ -1,4 +1,4 @@
-# Exemplo de retorno que verifica se valor é par ou não
+# Exemplo de retorno que verifica se valor é par ou não.
 
 def e_par(x):
     return x % 2 == 0

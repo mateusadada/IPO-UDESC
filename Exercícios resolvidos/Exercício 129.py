@@ -1,4 +1,4 @@
-# Criando lista de 'tuplas' a partir do nome e de duas notas
+# Criando lista de 'tuplas' a partir do nome e de duas notas.
 
 lista_alunos_e_notas = []
 

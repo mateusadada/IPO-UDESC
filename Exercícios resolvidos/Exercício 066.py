@@ -1,4 +1,4 @@
-# Exemplo de uma nova função
+# Exemplo de uma nova função.
 
 def soma(a, b):
     print(a + b)

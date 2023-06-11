@@ -1,1 +1,1 @@
-# Exemplo com parâmetros obrigatórios e opcionais
+# Exemplo com parâmetros obrigatórios e opcionais.

@@ -1,4 +1,4 @@
-# Faça um programa que verifique se uma pessoa é ou não maior de idade
+# Faça um programa que verifique se uma pessoa é ou não maior de idade.
 
 print('Bem vindo ao programa de verificação de maioridade!')
 

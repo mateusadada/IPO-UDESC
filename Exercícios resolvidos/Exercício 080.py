@@ -1,4 +1,4 @@
-# Exemplo do problema do fatorial modificado para facilitar o rastreamento
+# Exemplo do problema do fatorial modificado para facilitar o rastreamento.
 
 def fatorial(n):
     print(f'\nCalculando o fatorial de {n}')

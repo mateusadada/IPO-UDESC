@@ -1,4 +1,4 @@
-# Calcule se um número é par ou ímpar
+# Calcule se um número é par ou ímpar.
 
 print('Bem vindo ao programa que informa se um número é par ou ímpar!')
 

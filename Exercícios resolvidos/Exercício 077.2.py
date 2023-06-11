@@ -1,4 +1,4 @@
-# Variáveis locais e globais (página 13)
+# Variáveis locais e globais (página 13).
 
 def muda_e_imprime():
     a = 7

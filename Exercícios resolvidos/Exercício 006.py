@@ -1,4 +1,4 @@
-# Exemplo 2 do PDF Slides da aula - Parte 5
+# Exemplo 2 do PDF Slides da aula - Parte 5.
 
 print('Bem vindo ao programa que informa a situação do carro!')
 

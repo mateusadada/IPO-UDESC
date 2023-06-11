@@ -1,4 +1,4 @@
-# Faça um programa que calcule a soma de 5 números digitados pelo usuário
+# Faça um programa que calcule a soma de 5 números digitados pelo usuário.
 
 print('Bem vindo ao programa de cálculo da soma de cinco números!')
 

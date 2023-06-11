@@ -1,1 +1,1 @@
-# Exemplo de itens fracamente privados
+# Exemplo de itens fracamente privados.

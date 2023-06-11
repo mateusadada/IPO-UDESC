@@ -1,4 +1,4 @@
-# Receba a temperatura em Celsius de um usuário e converta para Fahrenheit, exibindo o resultado na tela
+# Receba a temperatura em Celsius de um usuário e converta para Fahrenheit, exibindo o resultado na tela.
 
 print('Bem vindo ao programa de conversão de celsius para fahrenheit!')
 

@@ -1,6 +1,6 @@
 # Faça um programa para realizar a mesma tarefa do exemplo localizado no slide 21, mas sem utilizar a variável
-# achou. Dica: observe a condição de saída do while
-# Faça um programa de pesquisa de elementos
+# achou. Dica: observe a condição de saída do while.
+# Faça um programa de pesquisa de elementos.
 
 print('Bem vindo ao programa que pesquisa um número em uma lista!')
 

@@ -1,1 +1,1 @@
-# Exemplo de desempacotamento de parâmetros
+# Exemplo de desempacotamento de parâmetros.

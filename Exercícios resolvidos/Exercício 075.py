@@ -1,4 +1,4 @@
-# Exemplo de cálculo da média
+# Exemplo de cálculo da média.
 
 def media(numeros):
     total = 0

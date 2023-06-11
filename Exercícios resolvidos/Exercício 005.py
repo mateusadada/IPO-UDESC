@@ -1,4 +1,4 @@
-# Exemplo 1 do PDF Slides da aula - Parte 5
+# Exemplo 1 do PDF Slides da aula - Parte 5.
 
 print('Bem vindo ao programa de cálculo do maior número entre dois digitados!')
 

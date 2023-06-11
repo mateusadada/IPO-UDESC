@@ -1,4 +1,4 @@
-# Exemplo de cálculo de fatorial
+# Exemplo de cálculo de fatorial.
 
 def fatorial(fat):
     total = 1

@@ -1,4 +1,4 @@
-# Escreva um programa que receberá um número e dirá se ele é positivo, negativo ou nulo
+# Escreva um programa que receberá um número e dirá se ele é positivo, negativo ou nulo.
 
 print('Bem vindo ao programa que informa o tipo do número!')
 

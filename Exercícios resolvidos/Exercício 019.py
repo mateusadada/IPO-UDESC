@@ -1,4 +1,4 @@
-# Imprimir uma tabuada (de 1 a 10) de adição de um número digitado pelo usuário
+# Imprimir uma tabuada (de 1 a 10) de adição de um número digitado pelo usuário.
 
 print('Bem vindo ao programa que exibe a tabuada (de 1 a 10) de adição de um número informado!')
 

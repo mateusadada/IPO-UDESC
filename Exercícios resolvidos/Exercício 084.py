@@ -1,4 +1,4 @@
-# Exemplo de parâmetros opcionais
+# Exemplo de parâmetros opcionais.
 
 def barra_1():
     return '*' * 40

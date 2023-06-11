@@ -1,4 +1,4 @@
-# Receba uma base e um expoente de uma potência e calcule o resultado, exibindo-o na tela
+# Receba uma base e um expoente de uma potência e calcule o resultado, exibindo-o na tela.
 
 print('Bem vindo ao programa de cálculo de potência!')
 

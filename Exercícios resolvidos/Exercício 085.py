@@ -1,4 +1,4 @@
-# Exemplo de parâmetros opcionais
+# Exemplo de parâmetros opcionais.
 
 def soma(a, b, imprime=False):
     s = a + b

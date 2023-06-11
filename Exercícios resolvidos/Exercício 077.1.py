@@ -1,4 +1,4 @@
-# Variáveis locais e globais (página 12)
+# Variáveis locais e globais (página 12).
 
 def imprimir_cabecalho():
     print(f'{universidade}'

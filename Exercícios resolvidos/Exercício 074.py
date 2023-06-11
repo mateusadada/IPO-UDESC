@@ -1,4 +1,4 @@
-# Exemplo de pesquisa em uma lista
+# Exemplo de pesquisa em uma lista.
 
 def procurar(number):
     for i, e in enumerate(lista):

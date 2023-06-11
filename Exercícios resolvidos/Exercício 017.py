@@ -1,4 +1,4 @@
-# Faça um programa para imprimir os números ímpares de 1 até o número digitado pelo usuário
+# Faça um programa para imprimir os números ímpares de 1 até o número digitado pelo usuário.
 
 print('Bem vindo ao programa que exibe os números ímpares de 1 até o limite informado!')
 

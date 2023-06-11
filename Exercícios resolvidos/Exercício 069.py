@@ -1,4 +1,4 @@
-# Exemplo de reutilização da função épar em outra função
+# Exemplo de reutilização da função épar em outra função.
 
 def e_par(x):
     return x % 2 == 0

@@ -1,4 +1,4 @@
-# Manipulando as tuplas da lista 'lista_alunos_e_notas' para incluir a média
+# Manipulando as tuplas da lista 'lista_alunos_e_notas' para incluir a média.
 
 lista_alunos_e_notas = []
 

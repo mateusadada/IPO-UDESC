@@ -1,1 +1,1 @@
-# Exemplo de itens fortemente privados
+# Exemplo de itens fortemente privados.

@@ -1,4 +1,4 @@
-# Exemplo do problema do fatorial com funções recursivas
+# Exemplo do problema do fatorial com funções recursivas.
 
 def fatorial(n):
     if n == 0 or n == 1:
