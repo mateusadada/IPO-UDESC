@@ -6,7 +6,7 @@ class Multiplicacao(Operacoes):
         super().__init__(num1, num2)
         self.multiplicacao = multiplicacao
 
-    def calcular_multiplicacao(self):
+    def _calcular_multiplicacao(self):
         self.multiplicacao = self.numero1 * self.numero2
         return self.multiplicacao
 
