@@ -7,7 +7,7 @@ class Potencia(Operacoes):
         super().__init__(num1, num2)
         self.potencia = potencia
 
-    def calcular_potencia(self):
+    def _calcular_potencia(self):
         self.potencia = pow(self.numero1, self.numero2)
         return self.potencia
 
