@@ -6,7 +6,7 @@ class Divisao(Operacoes):
         super().__init__(num1, num2)
         self.divisao = divisao
 
-    def calcular_divisao(self):
+    def _calcular_divisao(self):
         self.divisao = self.numero1 / self.numero2
         return self.divisao
 
