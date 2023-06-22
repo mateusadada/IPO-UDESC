@@ -32,7 +32,7 @@ while True:
         numero2 = float(input('2º número: '))
         usuario = Soma(numero1, numero2)
 
-        print(f'Resultado: {usuario.calcular_soma()}')
+        print(f'Resultado: {usuario._calcular_soma()}')
 
         historico.append(f'{usuario.get_numero1()} + {usuario.get_numero2()} = {usuario.get_soma()}')
 
@@ -45,7 +45,7 @@ while True:
         numero2 = float(input('2º número: '))
         usuario = Subtracao(numero1, numero2)
 
-        print(f'Resultado: {usuario.calcular_subtracao()}')
+        print(f'Resultado: {usuario._calcular_subtracao()}')
 
         historico.append(f'{usuario.get_numero1()} - {usuario.get_numero2()} = {usuario.get_subtracao()}')
 
@@ -58,7 +58,7 @@ while True:
         numero2 = float(input('2º número: '))
         usuario = Multiplicacao(numero1, numero2)
 
-        print(f'Resultado: {usuario.calcular_multiplicacao()}')
+        print(f'Resultado: {usuario._calcular_multiplicacao()}')
 
         historico.append(f'{usuario.get_numero1()} * {usuario.get_numero2()} = {usuario.get_multiplicacao()}')
 
@@ -78,7 +78,7 @@ while True:
             else:
                 print('## O denominador não pode ser nulo!')
 
-        print(f'Resultado: {usuario.calcular_divisao():.2f}')
+        print(f'Resultado: {usuario._calcular_divisao():.2f}')
 
         historico.append(f'{usuario.get_numero1()} / {usuario.get_numero2()} = {usuario.get_divisao():.2f}')
 
@@ -91,7 +91,7 @@ while True:
         numero2 = float(input('Potência: '))
         usuario = Potencia(numero1, numero2)
 
-        print(f'Resultado: {usuario.calcular_potencia()}')
+        print(f'Resultado: {usuario._calcular_potencia()}')
 
         historico.append(f'{usuario.get_numero1()} elevado a {usuario.get_numero2()} = {usuario.get_potencia()}')
 
@@ -103,7 +103,7 @@ while True:
         numero1 = float(input('Número: '))
         usuario = RaizQuadrada(numero1)
 
-        print(f'Resultado: {usuario.calcular_raiz_quadrada():.2f}')
+        print(f'Resultado: {usuario._calcular_raiz_quadrada():.2f}')
 
         historico.append(f'√{usuario.get_numero1()} = {usuario.get_raiz_quadrada():.2f}')
 
@@ -120,14 +120,14 @@ while True:
     elif opcao == 8:
         print('\n===== LIMPANDO A TELA =====')
 
-        for i in list(range(5, 0, -1)):
+        for i in list(range(5, -1, -1)):
             sleep(0.6)
             print(' ' * 13, i)
 
         print("\n" * 100)
 
     elif opcao == 9:
-        print('\nPrograma finalizado... Obrigado por utilizar!')
+        print('\nPrograma encerrado. Obrigado por utilizar!')
         break
 
     else:
