@@ -6,7 +6,7 @@ class Subtracao(Operacoes):
         super().__init__(num1, num2)
         self.subtracao = subtracao
 
-    def calcular_subtracao(self):
+    def _calcular_subtracao(self):
         self.subtracao = self.numero1 - self.numero2
         return self.subtracao
 
