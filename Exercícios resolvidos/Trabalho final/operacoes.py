@@ -4,12 +4,6 @@ class Operacoes:
         self.numero1 = num1
         self.numero2 = num2
 
-    def set_numero1(self, num1):
-        self.numero1 = num1
-
-    def set_numero2(self, num2):
-        self.numero2 = num2
-
     def get_numero1(self):
         return self.numero1
 

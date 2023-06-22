@@ -1,50 +1,18 @@
-from operacoes import Operacoes
+from time import sleep
+from soma import Soma
+from subtracao import Subtracao
+from multiplicacao import Multiplicacao
+from divisao import Divisao
+from potencia import Potencia
+from raiz_quadrada import RaizQuadrada
 
 
-class Soma(Operacoes):
-    def __init__(self, num1, num2):
-        super().__init__(numero1, numero2)
-
-    def calcular_soma(self):
-        soma = self.numero1 + self.numero2
-        historico.append(f'{self.numero1} + {self.numero2} = {soma}')
-        return soma
-
-
-class Subtracao(Operacoes):
-    def __init__(self, num1, num2):
-        super().__init__(numero1, numero2)
-
-    def calcular_subtracao(self):
-        subtracao = self.numero1 - self.numero2
-        historico.append(f'{self.numero1} - {self.numero2} = {subtracao}')
-        return subtracao
-
-
-class Multiplicacao(Operacoes):
-    def __init__(self, num1, num2):
-        super().__init__(numero1, numero2)
-
-    def calcular_multiplicacao(self):
-        multiplicacao = self.numero1 * self.numero2
-        historico.append(f'{self.numero1} * {self.numero2} = {multiplicacao}')
-        return multiplicacao
-
-
-class Divisao(Operacoes):
-    def __init__(self, num1, num2):
-        super().__init__(numero1, numero2)
-
-    def calcular_divisao(self):
-        divisao = self.numero1 / self.numero2
-        historico.append(f'{self.numero1} / {self.numero2} = {divisao}')
-        return divisao
-
+print('Bem vindo ao programa de cálculo!')
 
 historico = []
 
 while True:
-    print('*** CALCULADORA ***'
+    print('\n*** CALCULADORA ***'
           '\n1. Soma'
           '\n2. Subtração'
           '\n3. Multiplicação'
@@ -52,6 +20,7 @@ while True:
           '\n5. Potência'
           '\n6. Raiz quadrada'
           '\n7. Histórico'
+          '\n8. Limpar a tela'
           '\n9. SAIR ')
 
     opcao = int(input('Opção: '))
@@ -65,6 +34,10 @@ while True:
 
         print(f'Resultado: {usuario.calcular_soma()}')
 
+        historico.append(f'{usuario.get_numero1()} + {usuario.get_numero2()} = {usuario.get_soma()}')
+
+        print('=' * 16)
+
     elif opcao == 2:
         print('\n===== SUBTRAÇÃO =====')
 
@@ -74,6 +47,10 @@ while True:
 
         print(f'Resultado: {usuario.calcular_subtracao()}')
 
+        historico.append(f'{usuario.get_numero1()} - {usuario.get_numero2()} = {usuario.get_subtracao()}')
+
+        print('=' * 21)
+
     elif opcao == 3:
         print('\n===== MULTIPLICAÇÃO =====')
 
@@ -82,6 +59,10 @@ while True:
         usuario = Multiplicacao(numero1, numero2)
 
         print(f'Resultado: {usuario.calcular_multiplicacao()}')
+
+        historico.append(f'{usuario.get_numero1()} * {usuario.get_numero2()} = {usuario.get_multiplicacao()}')
+
+        print('=' * 25)
 
     elif opcao == 4:
         print('\n===== DIVISÃO =====')
@@ -97,27 +78,56 @@ while True:
             else:
                 print('## O denominador não pode ser nulo!')
 
-        print(f'Resultado: {usuario.calcular_divisao()}')
+        print(f'Resultado: {usuario.calcular_divisao():.2f}')
+
+        historico.append(f'{usuario.get_numero1()} / {usuario.get_numero2()} = {usuario.get_divisao():.2f}')
+
+        print('=' * 19)
 
     elif opcao == 5:
         print('\n===== POTÊNCIA =====')
 
         numero1 = float(input('Base: '))
         numero2 = float(input('Potência: '))
+        usuario = Potencia(numero1, numero2)
+
+        print(f'Resultado: {usuario.calcular_potencia()}')
+
+        historico.append(f'{usuario.get_numero1()} elevado a {usuario.get_numero2()} = {usuario.get_potencia()}')
+
+        print('=' * 20)
 
     elif opcao == 6:
         print('\n===== RAIZ QUADRADA =====')
 
         numero1 = float(input('Número: '))
+        usuario = RaizQuadrada(numero1)
+
+        print(f'Resultado: {usuario.calcular_raiz_quadrada():.2f}')
+
+        historico.append(f'√{usuario.get_numero1()} = {usuario.get_raiz_quadrada():.2f}')
+
+        print('=' * 25)
 
     elif opcao == 7:
-        print('\n===== HISTÓRICO =====')
+        print(f'\n===== HISTÓRICO - Total {len(historico)} =====')
 
         for e in historico:
             print(e)
 
+        print('=' * 31)
+
+    elif opcao == 8:
+        print('\n===== LIMPANDO A TELA =====')
+
+        for i in list(range(5, 0, -1)):
+            sleep(0.6)
+            print(' ' * 13, i)
+
+        print("\n" * 100)
+
     elif opcao == 9:
-        print('\nFinalizando o programa... Até logo!')
+        print('\nPrograma finalizado... Obrigado por utilizar!')
         break
 
     else:
