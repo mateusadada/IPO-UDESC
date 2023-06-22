@@ -7,7 +7,7 @@ class RaizQuadrada(Operacoes):
         super().__init__(num1)
         self.raiz_quadrada = raiz_quadrada
 
-    def calcular_raiz_quadrada(self):
+    def _calcular_raiz_quadrada(self):
         self.raiz_quadrada = sqrt(self.numero1)
         return self.raiz_quadrada
 
