@@ -6,7 +6,7 @@ class Soma(Operacoes):
         super().__init__(num1, num2)
         self.soma = soma
 
-    def calcular_soma(self):
+    def _calcular_soma(self):
         self.soma = self.numero1 + self.numero2
         return self.soma
 
