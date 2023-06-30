@@ -18,7 +18,7 @@ class Cliente:
         return self.__telefone
 
 
-print('Bem vindo ao programa que exibe o nome e o telefone de um cliente!')
+print('Bem-vindo ao programa que exibe o nome e o telefone de um cliente!')
 
 cliente1 = Cliente()
 

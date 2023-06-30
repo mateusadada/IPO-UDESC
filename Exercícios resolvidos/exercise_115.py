@@ -30,7 +30,7 @@ class Pessoa:
         return self.altura
 
 
-print('Bem vindo ao programa que faz a projeção do peso e da altura de uma pessoa!')
+print('Bem-vindo ao programa que faz a projeção do peso e da altura de uma pessoa!')
 
 nome = input('Digite o nome: ')
 idade = int(input('Idade: '))

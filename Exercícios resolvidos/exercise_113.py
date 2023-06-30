@@ -18,7 +18,7 @@ class Quadrado:
 
 teste = Quadrado()
 
-print('Bem vindo ao programa de cálculo da área de um quadrado!'
+print('Bem-vindo ao programa de cálculo da área de um quadrado!'
       f'\nValor inicial do lado do quadrado: {teste.get_tamanho_lado()}'
       f'\nÁrea: {teste._Quadrado__calcular_area()}m²')
 

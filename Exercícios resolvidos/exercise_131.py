@@ -30,6 +30,6 @@ def exibir_nome_e_media():
 
 lista_alunos_e_notas = []
 
-print('Bem vindo ao programa de cadastro de aluno e impressão da mesma a partir de funções (tuplas)!')
+print('Bem-vindo ao programa de cadastro de aluno e impressão da mesma a partir de funções (tuplas)!')
 
 main()

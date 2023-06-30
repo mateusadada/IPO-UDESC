@@ -3,7 +3,7 @@
 from Exercício119 import Cliente
 from Exercício122 import Conta
 
-print('Bem vindo ao programa de extrato de conta-corrente!')
+print('Bem-vindo ao programa de extrato de conta-corrente!')
 
 joao = Cliente('João da Silva', '777-1234')
 maria = Cliente('Maria da Silva', '555-4321')
