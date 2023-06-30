@@ -4,7 +4,7 @@
 #  - o inverso do primeiro valor vezes o segundo multiplicado por 5;
 #  - o quadrado do primeiro dividido pelo segundo elevado a -2.
 
-print('Bem vindo ao programa que realiza vários cálculos a partir de dois números!')
+print('Bem-vindo ao programa que realiza vários cálculos a partir de dois números!')
 
 numero1 = int(input('Digite um número inteiro: '))
 numero2 = int(input('Digite outro número inteiro: '))

@@ -1,6 +1,6 @@
 # Crie uma lista de números e ordene do menor para o maior.
 
-print('Bem vindo ao programa que ordena uma lista em ordem crescente!')
+print('Bem-vindo ao programa que ordena uma lista em ordem crescente!')
 
 lista = [5, 7, -7, 85, 98, -72, 0, 54, -7, 85, -1200]
 

@@ -2,7 +2,7 @@
 
 from math import pi
 
-print('Bem vindo ao programa de cálculo da área de um círculo!')
+print('Bem-vindo ao programa de cálculo da área de um círculo!')
 
 raio = float(input('Digite o raio do círculo (cm²): '))
 

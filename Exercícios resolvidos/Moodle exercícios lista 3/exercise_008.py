@@ -1,6 +1,6 @@
 # Crie uma lista de números e encontre a média.
 
-print('Bem vindo ao programa de cálculo da média de uma lista!')
+print('Bem-vindo ao programa de cálculo da média de uma lista!')
 
 lista = list(range(1, 200, 7))
 soma = 0

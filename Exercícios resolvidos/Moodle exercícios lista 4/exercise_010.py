@@ -83,7 +83,7 @@ while True:
                         '\nOpção: '))
 
     if escolha == 1:
-        print('\nBem vindo ao programa de cálculo do produto de três números!')
+        print('\nBem-vindo ao programa de cálculo do produto de três números!')
 
         lista = []
 
@@ -95,7 +95,7 @@ while True:
         break
 
     elif escolha == 2:
-        print('\nBem vindo ao programa de cálculo de fatorial de um número!')
+        print('\nBem-vindo ao programa de cálculo de fatorial de um número!')
 
         numero = int(input('Digite um número inteiro: '))
 
@@ -103,7 +103,7 @@ while True:
         break
 
     elif escolha == 3:
-        print('\nBem vindo ao programa de cálculo da média de quatro notas de uma disciplina!')
+        print('\nBem-vindo ao programa de cálculo da média de quatro notas de uma disciplina!')
 
         lista = []
 
@@ -131,7 +131,7 @@ while True:
         break
 
     elif escolha == 5:
-        print('\nBem vindo ao programa de cálculo de desconto de um produto!')
+        print('\nBem-vindo ao programa de cálculo de desconto de um produto!')
 
         preco = float(input('Valor da compra: R$ '))
         desconto = float(input('Desconto (%): '))
@@ -141,7 +141,7 @@ while True:
 
     elif escolha == 6:
         numeros = []
-        print('\nBem vindo ao programa que retorna o valor máximo de uma lista!')
+        print('\nBem-vindo ao programa que retorna o valor máximo de uma lista!')
 
         while True:
             numero = int(input('Digite um número (0 p/ sair): '))
@@ -157,7 +157,7 @@ while True:
     elif escolha == 7:
         numeros = []
 
-        print('\nBem vindo ao programa que exibe a ordem inversa de uma lista!')
+        print('\nBem-vindo ao programa que exibe a ordem inversa de uma lista!')
 
         while True:
             numero = int(input('Digite um número (0 p/ sair): '))
@@ -171,14 +171,14 @@ while True:
         break
 
     elif escolha == 8:
-        print('\nBem vindo ao programa de cálculo da média!')
+        print('\nBem-vindo ao programa de cálculo da média!')
         print(f'\nA média é {adicao_numeros_lista():.2f}')
         break
 
     elif escolha == 9:
         lista_nomes = ['Mateus', 'Julia', 'Livia', 'Ana', 'João', 'Cristiane', 'Paulo']
 
-        print('\nBem vindo ao programa que verifica se um nome está em uma lista!'
+        print('\nBem-vindo ao programa que verifica se um nome está em uma lista!'
               f'\nLista: {lista_nomes}')
 
         nome_a_procurar = input('\nProcurar qual nome? ')

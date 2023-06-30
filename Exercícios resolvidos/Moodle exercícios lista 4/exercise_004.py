@@ -4,7 +4,7 @@ def media(a, a1, b, b1, c, c1, d, d1):
     return (a * a1 + b * b1 + c * c1 + d * d1) / (a1 + b1 + c1 + d1)
 
 
-print('Bem vindo ao programa de cálculo da média ponderada de quatro notas de uma disciplina!')
+print('Bem-vindo ao programa de cálculo da média ponderada de quatro notas de uma disciplina!')
 
 notas = []
 peso_notas = []
