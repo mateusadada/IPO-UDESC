@@ -1,6 +1,6 @@
 # Faça um programa de adição de elementos à lista com append.
 
-print('Bem vindo ao programa que adiciona números a uma lista!')
+print('Bem-vindo ao programa que adiciona números a uma lista!')
 
 lista = []
 

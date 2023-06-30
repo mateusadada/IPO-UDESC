@@ -1,6 +1,6 @@
 # Faça um programa que modifique e exiba uma lista qualquer.
 
-print('Bem vindo ao programa que exibe e modifica uma lista qualquer!')
+print('Bem-vindo ao programa que exibe e modifica uma lista qualquer!')
 
 lista = [1, 9, 5, 7, 2, 3]
 

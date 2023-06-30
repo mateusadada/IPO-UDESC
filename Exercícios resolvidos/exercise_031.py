@@ -1,6 +1,6 @@
 # Modifique o programa anterior para ler um número n. Imprima os n primeiros números primos.
 
-print('Bem vindo ao programa que mostra os n primeiros números primos!')
+print('Bem-vindo ao programa que mostra os n primeiros números primos!')
 
 quantidade = int(input('Deseja ver quantos números primos? '))
 numero = 3

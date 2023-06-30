@@ -4,7 +4,7 @@ def soma(a, b):
     print(a + b)
 
 
-print('Bem vindo ao programa que exibe uma função de soma!')
+print('Bem-vindo ao programa que exibe uma função de soma!')
 
 soma(2, 9)
 soma(7, 8)

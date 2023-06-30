@@ -1,6 +1,6 @@
 # Ler 5 inteiros do teclado e armazenar num vetor. Depois percorrer este vetor mostrando os números ímpares.
 
-print('Bem vindo ao programa que exibe os números ímpares digitados!')
+print('Bem-vindo ao programa que exibe os números ímpares digitados!')
 
 numeros = []
 impares = []

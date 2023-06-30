@@ -1,6 +1,6 @@
 # Imprimir uma tabuada (de 1 a 10) de adição de um número digitado pelo usuário.
 
-print('Bem vindo ao programa que exibe a tabuada (de 1 a 10) de adição de um número informado!')
+print('Bem-vindo ao programa que exibe a tabuada (de 1 a 10) de adição de um número informado!')
 
 numero = int(input('Digite um número: '))
 x = 1

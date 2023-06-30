@@ -5,7 +5,7 @@ def area_triangulo(base, altura):
     return (base * altura) / 2
 
 
-print('Bem vindo ao programa de cálculo da área de triângulo!')
+print('Bem-vindo ao programa de cálculo da área de triângulo!')
 base = float(input('Digite a base (m²): '))
 altura = float(input('Digite a altura (m²): '))
 

@@ -1,6 +1,6 @@
 # Faça um programa para tentar copiar listas.
 
-print('Bem vindo ao programa que tenta copiar listas!')
+print('Bem-vindo ao programa que tenta copiar listas!')
 
 lista_1 = [1, 2, 3]
 lista_2 = lista_1

@@ -1,6 +1,6 @@
 # Faça um programa para ler N notas e imprimir ao final elas e a média aritmética.
 
-print('Bem vindo ao programa de cálculo da média de N notas!')
+print('Bem-vindo ao programa de cálculo da média de N notas!')
 
 lista = []
 soma = 0
