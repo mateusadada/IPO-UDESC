@@ -1,4 +1,4 @@
-print('Bem-vindo ao programa de cálculo da média de notas informadas!')
+print('Bem vindo ao programa de cálculo da média de notas informadas!')
 
 quantidade = int(input('Digite a quantidade de notas: '))
 soma = 0

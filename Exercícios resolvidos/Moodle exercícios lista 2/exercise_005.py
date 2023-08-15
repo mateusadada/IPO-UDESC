@@ -1,7 +1,7 @@
 # Faça um programa que leia duas notas de um aluno e calcule a média. Se a média for maior ou igual a 6
 # está em recuperação, se for maior ou igual a 8 está aprovado, caso contrário, está reprovado.
 
-print('Bem-vindo ao programa de cálculo da situação final de um aluno!')
+print('Bem vindo ao programa de cálculo da situação final de um aluno!')
 
 nota1 = float(input('Digite a 1ª nota: '))
 nota2 = float(input('Digite a 2º nota: '))

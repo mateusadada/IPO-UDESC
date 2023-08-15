@@ -28,7 +28,7 @@ class Retangulo:
         return (self.base + self.altura) * 2
 
 
-print('Bem-vindo ao programa de cálculo de quantidade de pisos e rodapés para um local!')
+print('Bem vindo ao programa de cálculo de quantidade de pisos e rodapés para um local!')
 
 comprimento = float(input('Informe o comprimento (m²): '))
 largura = float(input('Largura (m²): '))

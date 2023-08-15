@@ -1,6 +1,6 @@
 # Receba a temperatura em Celsius de um usuário e converta para Fahrenheit, exibindo o resultado na tela.
 
-print('Bem-vindo ao programa de conversão de celsius para fahrenheit!')
+print('Bem vindo ao programa de conversão de celsius para fahrenheit!')
 
 celsius = float(input('Digite a temperatura em celsius: '))
 fahrenheit = (1.8 * celsius) + 32

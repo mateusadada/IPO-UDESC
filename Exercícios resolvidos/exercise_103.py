@@ -24,7 +24,7 @@ class Pessoa:
 
 banco_de_dados = []
 
-print('Bem-vindo ao programa que exibe nomes e as idades de n pessoas!')
+print('Bem vindo ao programa que exibe nomes e as idades de n pessoas!')
 
 while True:
     nome = input('\nInforme um nome (fim p/ sair): ')

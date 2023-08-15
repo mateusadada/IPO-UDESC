@@ -1,6 +1,6 @@
 # Exemplo 2 do PDF Slides da aula - Parte 5.
 
-print('Bem-vindo ao programa que informa a situação do carro!')
+print('Bem vindo ao programa que informa a situação do carro!')
 
 idade = int(input('Digite a idade do carro: '))
 

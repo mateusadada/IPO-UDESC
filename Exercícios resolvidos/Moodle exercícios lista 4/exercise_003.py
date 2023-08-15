@@ -4,7 +4,7 @@ def media(a, b, c, d):
     return (a + b + c + d) / 4
 
 
-print('Bem-vindo ao programa de cálculo da média de quatro notas de uma disciplina!')
+print('Bem vindo ao programa de cálculo da média de quatro notas de uma disciplina!')
 
 lista = []
 

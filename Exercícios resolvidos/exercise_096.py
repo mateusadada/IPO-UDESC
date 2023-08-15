@@ -6,7 +6,7 @@ class TV:
         self.canal = 2
 
 
-print('Bem-vindo ao programa usando o método construtor!')
+print('Bem vindo ao programa usando o método construtor!')
 
 tv_do_quarto = TV()
 print(tv_do_quarto.ligada)

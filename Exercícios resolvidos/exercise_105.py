@@ -36,7 +36,7 @@ class Aluno:
         return (nota1 + nota2) / 2
 
 
-print('Bem-vindo ao programa de cálculo da média de um aluno!')
+print('Bem vindo ao programa de cálculo da média de um aluno!')
 
 while True:
     nome = input('Informe um nome (fim p/ sair): ')

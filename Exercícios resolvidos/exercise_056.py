@@ -1,7 +1,7 @@
 # Faça um programa que leia duas listas e que gere uma terceira com os elementos das duas primeiras.
 # Lista 3: lista 1 + lista 2.
 
-print('Bem-vindo ao programa que exibe uma terceira lista a partir de duas informadas!')
+print('Bem vindo ao programa que exibe uma terceira lista a partir de duas informadas!')
 
 lista_1 = []
 lista_2 = []

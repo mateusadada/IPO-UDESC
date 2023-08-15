@@ -6,7 +6,7 @@ def calculaPreco(valor_inicial, desconto_percentual):
     return preco_final
 
 
-print('Bem-vindo ao programa de cálculo de desconto de um produto!')
+print('Bem vindo ao programa de cálculo de desconto de um produto!')
 
 preco = float(input('Valor da compra: R$ '))
 desconto = float(input('Desconto (%): '))

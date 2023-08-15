@@ -1,6 +1,6 @@
 # Faça um programa que peça dois números e imprima o maior deles.
 
-print('Bem-vindo ao programa de cálculo do maior número entre dois!')
+print('Bem vindo ao programa de cálculo do maior número entre dois!')
 
 numero_1 = int(input('Digite um número: '))
 numero_2 = int(input('Digite outro número: '))

@@ -2,7 +2,7 @@
 
 from time import sleep
 
-print('Bem-vindo ao programa que apaga vários números de uma lista!')
+print('Bem vindo ao programa que apaga vários números de uma lista!')
 
 lista = list(range(1, 101))
 

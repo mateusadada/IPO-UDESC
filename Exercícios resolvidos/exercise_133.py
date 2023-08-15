@@ -2,7 +2,7 @@
 # ao final, imprimir quantidade de alunos e média de notas da turma.
 
 def main():
-    print('Bem-vindo ao programa de cálculo da média semestral e da turma de 4 notas!')
+    print('Bem vindo ao programa de cálculo da média semestral e da turma de 4 notas!')
 
     while True:
         nome = input('\nInforme um nome (fim p/ sair): ')

@@ -21,7 +21,7 @@ class Retangulo:
 
 retangulo = Retangulo(10, 20)
 
-print('Bem-vindo ao programa de cálculo da área e do perímetro de um triângulo!')
+print('Bem vindo ao programa de cálculo da área e do perímetro de um triângulo!')
 
 print(f'\nDados: {retangulo.get_valor_lados()}'
       f'\nÁrea: {retangulo.calcular_area()}m²'

@@ -1,6 +1,6 @@
 # Faça um programa para copiar listas independentemente.
 
-print('Bem-vindo ao programa que copia listas independentemente!')
+print('Bem vindo ao programa que copia listas independentemente!')
 
 lista_1 = [1, 2, 3]
 lista_2 = lista_1[:]

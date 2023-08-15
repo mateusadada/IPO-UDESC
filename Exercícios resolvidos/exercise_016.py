@@ -3,7 +3,7 @@
 
 import time
 
-print('Bem-vindo ao programa que exibe a contagem regressiva do lançamento de um foguete!')
+print('Bem vindo ao programa que exibe a contagem regressiva do lançamento de um foguete!')
 
 x = 10
 

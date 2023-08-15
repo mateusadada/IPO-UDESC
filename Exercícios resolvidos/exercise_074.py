@@ -10,7 +10,7 @@ def procurar(number):
 
 lista = list(range(1, 200, 17))
 
-print('Bem-vindo ao programa que procura um número em uma lista a partir de uma função!'
+print('Bem vindo ao programa que procura um número em uma lista a partir de uma função!'
       f'\nLista: {lista}')
 numero = int(input('Digite um número: '))
 

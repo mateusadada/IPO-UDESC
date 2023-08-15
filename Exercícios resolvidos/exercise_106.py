@@ -1,6 +1,6 @@
 # Exercícios com strings e procurando uma substring em uma string.
 
-print('Bem-vindo ao programa que realiza testes com a manipulação de strings!\n')
+print('Bem vindo ao programa que realiza testes com a manipulação de strings!\n')
 
 frase = 'Olá, mundo!'
 print(frase)

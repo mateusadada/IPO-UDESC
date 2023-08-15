@@ -49,7 +49,7 @@ class PessoaJuridica(Pessoa):
         return self.__CNPJ
 
 
-print('Bem-vindo ao programa de classe e de subclasses (herança)!')
+print('Bem vindo ao programa de classe e de subclasses (herança)!')
 
 fisica = PessoaFisica('123.456.789-00', 'Fulano da Silva', 18)
 juridica = PessoaJuridica('12.123.123/0001-01', 'Empresa XYZ Ltda', 5)

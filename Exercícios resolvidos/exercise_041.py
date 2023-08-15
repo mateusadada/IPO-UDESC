@@ -1,6 +1,6 @@
 # Faça um programa para retirar elementos de uma lista usando del.
 
-print('Bem-vindo ao programa que retira números de uma lista!')
+print('Bem vindo ao programa que retira números de uma lista!')
 
 lista = list(range(1, 11))
 

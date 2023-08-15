@@ -21,7 +21,7 @@ class Calculadora:
         return self.valor1 / self.valor2
 
 
-print('Bem-vindo ao programa de cálculo das quatro operações básicas (calculadora) a partir de 2 números!')
+print('Bem vindo ao programa de cálculo das quatro operações básicas (calculadora) a partir de 2 números!')
 
 numero1 = float(input('1º número: '))
 numero2 = float(input('2º número: '))

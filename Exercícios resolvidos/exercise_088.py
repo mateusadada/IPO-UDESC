@@ -4,7 +4,7 @@ def soma(a, b, c):
     return a + b + c
 
 
-print('Bem-vindo ao programa de cálculo da soma de três números!')
+print('Bem vindo ao programa de cálculo da soma de três números!')
 
 lista = []
 

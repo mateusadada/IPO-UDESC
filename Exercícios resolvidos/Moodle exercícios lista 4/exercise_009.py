@@ -11,7 +11,7 @@ def procurar_nome(lista, nome):
 
 lista_nomes = ['Mateus', 'Julia', 'Livia', 'Ana', 'João', 'Cristiane', 'Paulo']
 
-print('Bem-vindo ao programa que verifica se um nome está em uma lista!'
+print('Bem vindo ao programa que verifica se um nome está em uma lista!'
       f'\nLista: {lista_nomes}')
 
 nome_a_procurar = input('\nProcurar qual nome? ')

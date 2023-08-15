@@ -3,7 +3,7 @@
 lista = []
 FLAG = 0
 
-print('Bem-vindo ao programa que procura um nome em nome completo!')
+print('Bem vindo ao programa que procura um nome em nome completo!')
 
 while True:
     nome = input('Digite um nome (fim p/ sair): ')

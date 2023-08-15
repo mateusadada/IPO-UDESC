@@ -1,6 +1,6 @@
 # Faça um programa que calcule a média de cinco notas informadas e mostre qual nota está mais próxima dela.
 
-print('Bem-vindo ao programa que exibe a nota mais próxima da média de cinco notas!')
+print('Bem vindo ao programa que exibe a nota mais próxima da média de cinco notas!')
 
 notas = []
 diferenca_com_media = []

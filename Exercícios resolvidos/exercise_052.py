@@ -1,6 +1,6 @@
 # Inicializar um vetor com valores 2, 4, 6, 8, 10. Calcular e imprimir a soma dos valores.
 
-print('Bem-vindo ao programa de cálculo da média dos valores de uma lista!')
+print('Bem vindo ao programa de cálculo da média dos valores de uma lista!')
 
 lista = [2, 4, 6, 8, 10]
 soma = 0

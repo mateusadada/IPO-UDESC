@@ -11,5 +11,5 @@ def fatorial(n):
         return fat
 
 
-print('Bem-vindo ao programa de cálculo de fatorial a partir de uma função recursiva com rastreamento!')
+print('Bem vindo ao programa de cálculo de fatorial a partir de uma função recursiva com rastreamento!')
 print(f'\nO fatorial de 5 é {fatorial(5)}')

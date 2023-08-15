@@ -4,7 +4,7 @@ def produto(a, b, c):
     return a * b * c
 
 
-print('Bem-vindo ao programa de cálculo do produto de três números!')
+print('Bem vindo ao programa de cálculo do produto de três números!')
 
 lista = []
 

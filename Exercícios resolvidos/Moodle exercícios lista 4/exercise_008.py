@@ -19,5 +19,5 @@ def media(lista):
     return total / (len(lista))
 
 
-print('Bem-vindo ao programa de cálculo da média!')
+print('Bem vindo ao programa de cálculo da média!')
 print(f'\nA média é {adicao_numeros_lista():.2f}')

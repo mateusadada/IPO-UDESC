@@ -1,7 +1,7 @@
 # Exemplo 3 do PDF Slides da aula - Parte 5.
 # Mesmo exercício que o anterior (exemplo 2), mas utilizando o else.
 
-print('Bem-vindo ao programa que informa a situação do carro!')
+print('Bem vindo ao programa que informa a situação do carro!')
 
 idade = int(input('Digite a idade do carro: '))
 

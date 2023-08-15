@@ -1,6 +1,6 @@
 # Escrever um programa que leia 5 números float e imprima-os em ordem inversa.
 
-print('Bem-vindo ao programa que exibe a ordem inversa de uma lista!')
+print('Bem vindo ao programa que exibe a ordem inversa de uma lista!')
 
 lista = []
 

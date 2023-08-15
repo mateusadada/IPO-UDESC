@@ -10,7 +10,7 @@ def valor_maximo(lista):
 
 numeros = []
 
-print('Bem-vindo ao programa que retorna o valor máximo de uma lista!')
+print('Bem vindo ao programa que retorna o valor máximo de uma lista!')
 
 while True:
     numero = int(input('Digite um número (0 p/ sair): '))

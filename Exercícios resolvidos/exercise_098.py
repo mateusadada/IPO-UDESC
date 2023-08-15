@@ -12,7 +12,7 @@ class TV:
         self.canal += 1
 
 
-print('Bem-vindo ao programa que adiciona comportamento à classe!')
+print('Bem vindo ao programa que adiciona comportamento à classe!')
 
 tv_da_sala = TV()
 

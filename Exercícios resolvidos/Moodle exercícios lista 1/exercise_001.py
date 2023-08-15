@@ -1,6 +1,6 @@
 # Receba três notas de usuários e calcule a média simples, exibindo o resultado na tela.
 
-print('Bem-vindo ao programa de cálculo de média simples!')
+print('Bem vindo ao programa de cálculo de média simples!')
 
 i = 1
 soma = 0

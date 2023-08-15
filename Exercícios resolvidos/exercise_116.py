@@ -81,7 +81,7 @@ def menu():
             print('\nNúmero inválido. Tente novamente!\n')
 
 
-print('Bem-vindo ao programa de depósitos e saques de uma conta-corrente!')
+print('Bem vindo ao programa de depósitos e saques de uma conta-corrente!')
 
 conta = int(input('Número da conta: '))
 nome = input('Nome do cliente: ')

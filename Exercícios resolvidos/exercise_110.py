@@ -10,7 +10,7 @@ class ClasseFortementePrivada:
         print('Método fortemente privado')
 
 
-print('Bem-vindo ao programa de exemplo de classe fortemente privada!')
+print('Bem vindo ao programa de exemplo de classe fortemente privada!')
 
 teste = ClasseFortementePrivada()
 

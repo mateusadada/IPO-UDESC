@@ -9,6 +9,6 @@ def media(numeros):
 
 lista = list(range(1, 50, 4))
 
-print('Bem-vindo ao programa de cálculo da média de uma lista a partir de uma função!'
+print('Bem vindo ao programa de cálculo da média de uma lista a partir de uma função!'
       f'\nLista: {lista}'
       f'\n\nMédia dos números: {media(lista):.1f}')

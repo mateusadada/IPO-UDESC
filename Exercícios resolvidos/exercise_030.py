@@ -3,7 +3,7 @@
 # números ímpares até o número lido. Se o resto de uma dessas divisões for igual a zero,
 # o número não é primo. Observe que 0 e 1 não são primos e que 2 é o único primo que é par.
 
-print('Bem-vindo ao programa de validação de número primo!')
+print('Bem vindo ao programa de validação de número primo!')
 
 numero = int(input('Digite um número inteiro: '))
 

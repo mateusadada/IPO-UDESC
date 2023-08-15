@@ -1,6 +1,6 @@
 # Faça um programa que leia três números inteiros, em seguida mostre o maior e o menor deles.
 
-print('Bem-vindo ao programa que mostra o maior valor entre três números!')
+print('Bem vindo ao programa que mostra o maior valor entre três números!')
 
 numero1 = int(input('Digite o 1º valor: '))
 numero2 = int(input('Digite o 2º valor: '))

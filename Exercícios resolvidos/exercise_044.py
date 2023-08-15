@@ -1,6 +1,6 @@
 # Faça um programa para pesquisar se um elementos está em uma lista usando for.
 
-print('Bem-vindo ao programa que pesquisa se um número está em uma lista!')
+print('Bem vindo ao programa que pesquisa se um número está em uma lista!')
 
 lista = list(range(1, 200, 22))
 

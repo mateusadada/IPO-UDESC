@@ -8,7 +8,7 @@ def muda_e_imprime():
 
 a = 5
 
-print('Bem-vindo ao programa que deixa uma varivável global dentro de uma função!')
+print('Bem vindo ao programa que deixa uma varivável global dentro de uma função!')
 print(f'\nA antes de mudar: {a}')
 muda_e_imprime()
 print(f'A fora da função: {a}')

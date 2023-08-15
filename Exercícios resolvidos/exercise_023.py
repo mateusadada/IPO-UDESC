@@ -1,6 +1,6 @@
 # Faça um programa para calcular e imprimir a média de 5 números digitados pelo usuário.
 
-print('Bem-vindo ao programa de cálculo da média de cinco números!')
+print('Bem vindo ao programa de cálculo da média de cinco números!')
 
 contador = 1
 soma_total = 0

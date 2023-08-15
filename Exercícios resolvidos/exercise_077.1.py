@@ -7,5 +7,5 @@ def imprimir_cabecalho():
 
 universidade = 'Universidade do Estado de Santa Catarina - UDESC'
 
-print('Bem-vindo ao programa que imprime a quantidade de cabeçalhos de acordo com as letras!')
+print('Bem vindo ao programa que imprime a quantidade de cabeçalhos de acordo com as letras!')
 print(imprimir_cabecalho())

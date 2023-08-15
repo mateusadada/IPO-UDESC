@@ -1,6 +1,6 @@
 # Exemplo 4 do PDF Slides da aula - Parte 5.
 
-print('Bem-vindo ao programa que mostra o preço do produto dependendo da categoria!')
+print('Bem vindo ao programa que mostra o preço do produto dependendo da categoria!')
 
 categoria = int(input('Digite a categoria do produto (1 a 5): '))
 
