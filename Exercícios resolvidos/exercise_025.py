@@ -1,7 +1,7 @@
 # Faça um programa que pergunte o valor inicial de uma dívida e o juro mensal.
 # Pergunte quantos meses para pagar a dívida. Imprima o novo valor da dívida incluindo os juros.
 
-print('Bem vindo ao programa de cálculo de uma dívida!')
+print('Bem-vindo ao programa de cálculo de uma dívida!')
 
 saldo = float(input('Quanto é o valor inicial da dívida? R$ '))
 juro_mensal = float(input('Quanto é o juro ao mês (%)? '))/100

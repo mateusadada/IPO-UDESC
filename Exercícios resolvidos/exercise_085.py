@@ -8,7 +8,7 @@ def soma(a, b, imprime=False):
         return s
 
 
-print('Bem vindo ao programa de exemplo utilizando parâmetros opcionais em uma função!')
+print('Bem-vindo ao programa de exemplo utilizando parâmetros opcionais em uma função!')
 
 soma(2, 3)
 soma(3, 4, True)

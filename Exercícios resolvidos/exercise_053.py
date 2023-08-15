@@ -1,6 +1,6 @@
 # Ler e armazenar num vetor 5 números float fornecidos pelo usuário e calcular a média dos valores.
 
-print('Bem vindo ao programa de cálculo da média de cinco números!')
+print('Bem-vindo ao programa de cálculo da média de cinco números!')
 
 numeros = []
 soma = 0

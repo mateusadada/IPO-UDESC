@@ -2,7 +2,7 @@
 
 lista_alunos_e_notas = []
 
-print('Bem vindo ao programa que armazena o nome e duas notas de um aluno em uma tupla e exibe a média!')
+print('Bem-vindo ao programa que armazena o nome e duas notas de um aluno em uma tupla e exibe a média!')
 
 while True:
     nome = input('\nDigite um nome (fim p/ sair): ')

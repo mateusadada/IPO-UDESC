@@ -1,6 +1,6 @@
 # Faça um programa que calcule a soma de 5 números digitados pelo usuário.
 
-print('Bem vindo ao programa de cálculo da soma de cinco números!')
+print('Bem-vindo ao programa de cálculo da soma de cinco números!')
 
 contador = 1
 soma_total = 0

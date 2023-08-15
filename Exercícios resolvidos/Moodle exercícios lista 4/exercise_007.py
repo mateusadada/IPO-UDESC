@@ -7,7 +7,7 @@ def ordem_inversa(lista):
 
 numeros = []
 
-print('Bem vindo ao programa que exibe a ordem inversa de uma lista!')
+print('Bem-vindo ao programa que exibe a ordem inversa de uma lista!')
 
 while True:
     numero = int(input('Digite um número (0 p/ sair): '))

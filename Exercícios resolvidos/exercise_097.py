@@ -10,7 +10,7 @@ class TV:
         self.marca = None
 
 
-print('Bem vindo ao programa usando o método construtor!')
+print('Bem-vindo ao programa usando o método construtor!')
 
 tv_do_quarto = TV()
 tv_do_quarto.tamanho = 50

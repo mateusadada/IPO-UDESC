@@ -2,7 +2,7 @@
 # achou. Dica: observe a condição de saída do while.
 # Faça um programa de pesquisa de elementos.
 
-print('Bem vindo ao programa que pesquisa um número em uma lista!')
+print('Bem-vindo ao programa que pesquisa um número em uma lista!')
 
 lista = list(range(1, 100, 17))
 

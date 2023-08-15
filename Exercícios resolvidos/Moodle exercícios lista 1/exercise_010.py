@@ -1,6 +1,6 @@
 # Digite uma frase e imprima a quantidade de vogais presentes na frase.
 
-print('Bem vindo ao programa que informa a quantidade de vogais de um texto!')
+print('Bem-vindo ao programa que informa a quantidade de vogais de um texto!')
 
 texto = input('Digite uma frase: ')
 

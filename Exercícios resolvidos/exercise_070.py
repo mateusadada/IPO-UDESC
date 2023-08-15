@@ -12,7 +12,7 @@ def maior_2_numeros(a, b):
         return f'Os dois números ({a}) são iguais'
 
 
-print('Bem vindo ao programa que exibe qual número é maior entre dois!')
+print('Bem-vindo ao programa que exibe qual número é maior entre dois!')
 
 numero_1 = int(input('1º número: '))
 numero_2 = int(input('2º número: '))

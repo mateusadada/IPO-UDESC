@@ -11,7 +11,7 @@ def fatorial(fat):
         return total
 
 
-print('Bem vindo ao programa de cálculo de fatorial a partir de uma função!')
+print('Bem-vindo ao programa de cálculo de fatorial a partir de uma função!')
 numero = int(input('Digite um número: '))
 
 print(f'\nFatorial de {numero}: {fatorial(numero)}')

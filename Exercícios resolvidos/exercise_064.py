@@ -1,6 +1,6 @@
 # Faça um programa que leia N valores inteiros, e depois apresente-os em ordem crescente.
 
-print('Bem vindo ao programa que exibe uma lista em ordem crescente de números informados!')
+print('Bem-vindo ao programa que exibe uma lista em ordem crescente de números informados!')
 
 lista = []
 

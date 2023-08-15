@@ -1,4 +1,4 @@
-print('Bem vindo ao programa de cálculo da média de cinco notas pré-estabelecidas sem informar quais são!')
+print('Bem-vindo ao programa de cálculo da média de cinco notas pré-estabelecidas sem informar quais são!')
 
 notas = [6, 7, 5, 8, 9]
 soma = 0

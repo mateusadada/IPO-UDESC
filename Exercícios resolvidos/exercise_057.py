@@ -1,6 +1,6 @@
 # Faça um programa que percorra duas listas e gere uma terceira sem elementos repetidos.
 
-print('Bem vindo ao programa que gera uma lista sem números repetidos!')
+print('Bem-vindo ao programa que gera uma lista sem números repetidos!')
 
 lista_1 = [1, 2, 9, 7, 5, 6, 4, 3, 1, 12]
 lista_2 = [5, 6, 2, 3, 2, 5, 9, 1, 5, 12]

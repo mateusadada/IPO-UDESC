@@ -1,6 +1,6 @@
 # Faça um programa para pesquisar se um elemento está em uma lista usando while.
 
-print('Bem vindo ao programa que pesquisa se um número está em uma lista!')
+print('Bem-vindo ao programa que pesquisa se um número está em uma lista!')
 
 lista = list(range(1, 150, 17))
 i = 0

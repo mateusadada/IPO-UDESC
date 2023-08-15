@@ -11,7 +11,7 @@ def par_impar(x):
         return 'ímpar'
 
 
-print('Bem vindo ao programa que exibe se um número é par ou não; função em função!')
+print('Bem-vindo ao programa que exibe se um número é par ou não; função em função!')
 print(f'2: {par_impar(2)}'
       f'\n3: {par_impar(3)}'
       f'\n10: {par_impar(10)}')
