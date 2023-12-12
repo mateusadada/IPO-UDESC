@@ -1,5 +1,5 @@
 <h1 align="center">Introduction to Object-Oriented Programming - UDESC</h1>
-<div align="center"><i>A complete list of solved exercises and final project</i><br><br>
+<div align="center"><i>A complete list of solved exercises and the final project</i><br><br>
 <a href="https://github.com/mateusadada/IPO-UDESC/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/IPO-UDESC" alt="Stars Badge"/></a>
 <a href="https://github.com/mateusadada/IPO-UDESC/network/members"><img src="https://img.shields.io/github/forks/mateusadada/IPO-UDESC" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/IPO-UDESC/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/IPO-UDESC" alt="Pull Requests Badge"/></a>
