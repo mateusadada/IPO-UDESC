@@ -27,7 +27,7 @@ This repository contains all [the solved exercises](https://github.com/mateusada
 
 ## 📚 Features
 
-Used during the evolution of exercises and final project:
+Used during the evolution of exercises and the final project:
 
 - Tuples
 
