@@ -15,8 +15,8 @@
 - [Starting](#-starting)
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
-- [Built with](#%EF%B8%8F-built-with)
-- [Author](#%EF%B8%8F-author)
+- [Built with](#️-built-with)
+- [Author](#️-author)
 - [License](#-license)
 
 ## 🚀 Starting
@@ -30,13 +30,9 @@ This repository contains all [the solved exercises](https://github.com/mateusada
 Used during the evolution of exercises and the final project:
 
 - Tuples
-
 - Lists
-  
 - Functions
-
 - Basic concepts: classes, objects, inheritance, polymorphism, dynamic linking, methods, messages, abstraction, encapsulation and reuse
-
 - Generalization and specialization
 
 - Project design, notions and implementation
