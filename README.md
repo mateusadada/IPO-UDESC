@@ -29,11 +29,11 @@ This repository contains all [the solved exercises](https://github.com/mateusada
 
 Used during the evolution of exercises and the final project:
 
-- Tuples
-- Lists
-- Functions
-- Basic concepts: classes, objects, inheritance, polymorphism, dynamic linking, methods, messages, abstraction, encapsulation and reuse
-- Generalization and specialization
+- Tuples.
+- Lists.
+- Functions.
+- Basic concepts: classes, objects, inheritance, polymorphism, dynamic linking, methods, messages, abstraction, encapsulation and reuse.
+- Generalization and specialization.
 
 - Project design, notions and implementation
 
@@ -49,7 +49,7 @@ You need to have the Python language on your machine along with an IDE (Integrat
 
 ## 🛠️ Built with
 
-* [Python 3](https://www.python.org/) - The programming language used
+* [Python 3](https://www.python.org/) - The programming language used.
 
 ## ✒️ Author
 
