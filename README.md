@@ -34,8 +34,7 @@ Used during the evolution of exercises and the final project:
 - Functions.
 - Basic concepts: classes, objects, inheritance, polymorphism, dynamic linking, methods, messages, abstraction, encapsulation and reuse.
 - Generalization and specialization.
-
-- Project design, notions and implementation
+- Project design, notions and implementation.
 
 ## 📋 Prerequisites
 
