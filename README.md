@@ -4,7 +4,7 @@
 <a href="https://github.com/mateusadada/ipo-udesc/network/members"><img src="https://img.shields.io/github/forks/mateusadada/ipo-udesc" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/ipo-udesc/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/ipo-udesc" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mateusadada/ipo-udesc/issues"><img src="https://img.shields.io/github/issues/mateusadada/ipo-udesc" alt="Issues Badge"/></a>
-<a href="https://github.com/ipo-udesc"><img src="https://komarev.com/ghpvc/?username=ipo-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
+<a href="https://github.com/mateusadada/ipo-udesc"><img src="https://komarev.com/ghpvc/?username=ipo-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
 <br><a href="https://mateusadada.github.io/ipo-udesc" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2Fipo-udesc&logo=github" /></a>
 <a href="https://github.com/mateusadada/ipo-udesc/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/ipo-udesc?color=2b9348"></a>
 <a href="https://github.com/mateusadada/ipo-udesc/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/ipo-udesc?color=2b9348" alt="License Badge"/></a>
